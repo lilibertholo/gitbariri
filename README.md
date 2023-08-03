@@ -1,6 +1,5 @@
 # Repositório Bariri
-teste
-
+Teste
 ## Inicializando o Git
 git init
 
